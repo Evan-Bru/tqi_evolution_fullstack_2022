@@ -1,0 +1,37 @@
+table {
+    
+    justify-content: space-between;
+    padding: 0px;
+    background-color: #ff7253;
+    margin: 10px;
+    margin-left: 430px;
+    border: 2px solid black;
+    position: static;
+    ;
+}
+
+tbody {
+    justify-content: space-between;
+    background-color: #ff8f53;
+    padding: 8px;
+    border: 2px solid;
+    margin: 5px;
+    border-color: black;
+    border-collapse: collapse;
+}
+
+button{
+    background-color: #fc5530;
+    margin-right: 10px;
+    padding: 8px 16px;
+    margin: 0 16px;
+    border-radius: 8px;
+}
+td {
+    border: 2px solid black;    
+    border-collapse: collapse;
+    margin-left: 10px;
+    padding: 1px;
+    justify-content: center;
+
+}

@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light:wght@200;300;400;500;600;700;800&display=swap');
+
+:root {
+  --font-family: 'Shadows into Light', sans-serif;
+
+  --gradient-text: linear-gradient(90deg, rgba(253, 37, 37, 1) 0%, rgba(255, 85, 0, 1) 100%);    
+  --gradient-bar: linear-gradient(ellipse at 50% 50%, rgba(255, 59, 0, 1) 15%, rgba(255, 255, 0, 1) 100%);
+
+  
+  --color-bg: #041805;
+  --color-footer : #0e3403;
+  --color-blog: #535404;
+  --color-text: #ddc081;
+  --color-subtext: #ffc171;
+}
