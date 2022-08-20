@@ -10,6 +10,6 @@ Compra efetuada a partir de uma tela de venda com acesso limitado, e inscrição
 
 Utilizado Java para o backend, ReactJs para o frontend, Spring para criação do projeto, e NodeJs para auxílio.
 
-Criação da livraria baseada na livraria de Alexandria que foi queimada, e após muito anos deu origia a Bibliotheca Alexandrina considerada uma das maiores bibliotecas e fontes de conhecimento. Paleta de cores escolhidas como contraste de livro (coisas antigas) e Matrix (filme que representa a tecnologia em seu sentido avançado).
+Criação da solução baseada na Livraria de Alexandria que foi queimada, e após muito anos deu origem a Bibliotheca Alexandrina considerada uma das maiores bibliotecas e fontes de conhecimento. Paleta de cores escolhidas como contraste de livros (coisas relativamente antigas) e Matrix (filme que representa a tecnologia em seu sentido avançado).
 
 #tqi_evolution_fullstack_avaliacao
